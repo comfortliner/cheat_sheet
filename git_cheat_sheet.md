@@ -283,6 +283,7 @@ Use tags to save a specific version (the commit relations up to this point) of a
 * [Git Cheat Sheet by Ying Guo](https://github.com/yguo89/RTOS/wiki/Git-Cheat-Sheet)
 * [Git Cheat Sheet by Git Tower](http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf)
 * http://git-scm.com/documentation
+* [WebDevSimplified / Learn git in 20 minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 
 ## About
 
