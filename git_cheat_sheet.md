@@ -100,6 +100,7 @@
 * Stage all (even untracked) files
 
 		git add -A
+		git add .
 
 * Stage a tracked and modified file
 
