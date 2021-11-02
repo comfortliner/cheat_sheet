@@ -94,6 +94,13 @@
 
 		git log --grep=<searchword>
 
+* Show all commits with shrinked output
+
+		git log --oneline
+
+* Show all commits with graphical output
+
+		git log --graph
 
 ## Commit
 
